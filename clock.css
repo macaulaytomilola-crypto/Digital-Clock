@@ -29,4 +29,15 @@ h1{
 
               -webkit-text-fill-color: transparent;
               text-align: center;
+              background-color: black;
+        }
+
+        div{
+            background-color: black;
+           height: 270px;
+           width: 800px;
+           border-radius: 50px;
+           box-shadow: 0 0 15px;
+           background-color: rgb(222, 242, 255);
+            border: 5px solid rgb(241, 121, 121);
         }
